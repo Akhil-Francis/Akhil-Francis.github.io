@@ -9,11 +9,17 @@ layout: home
 </span>
 
 
- I am a researcher focusing on quantum algorithms and their applications, particularly for condensed matter physics.  <br>
+ <!-- I am a researcher focusing on quantum algorithms and their applications, particularly for condensed matter physics.  <br> -->
  
 <!-- ![profile pic](../images/profile_pic.jpg){:style="float: right; margin-left:0px; margin-right:2px; margin-top:2px;margin-bottom:0px;" :height="150px" width="180px"} -->
 
+## Core Expertise:
+
+Performing research, focusing on quantum algorithms and their applications, particularly for condensed matter physics.
+
 ### Experiences:
+  * Quantum algorithms for condensed matter physics
+
   * Executing quantum algorithms in real quantum machines 
 
   * Quantum algorithms for quantum chemistry
@@ -26,9 +32,20 @@ layout: home
 
   * Co-design of quantum algorithms with hardware
   
-
 ## Current Position
-Postdoctoral Researcher at [Lawrence Berkeley National Laboratory, Berkeley, USA](https://crd.lbl.gov/divisions/amcr/computational-science-dept/quist/quist-staff/akhil-francis/) . 
+Computational Scientist - Quantum Science at [University of Chicago, Chicago, USA](https://rcc.uchicago.edu/about-rcc/our-team) . 
+
+### Experiences:
+  * Organizing and conducting wokshops, mainly on quantum computing topics
+
+  * User support for the High Performance Computing (HPC) facility
+
+  * Contributing to grant proposal. 
+
+  * Contributing HPC related projects
+
+## Previous Positions
+* Postdoctoral Researcher at [Lawrence Berkeley National Laboratory, Berkeley, USA](https://crd.lbl.gov/divisions/amcr/computational-science-dept/quist/quist-staff/akhil-francis/) . 
 
 
 ## Education
